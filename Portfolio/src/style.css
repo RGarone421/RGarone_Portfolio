@@ -95,7 +95,6 @@ p {
 
 .links {
     margin: 10px;
-
 }
 
 .first-section {
@@ -165,3 +164,9 @@ a {
     color: orangered;
     font-size: 20px;
 }
+
+/* Thank god for google here. Bits and pieces from EVERYWHERE!! */
+
+/* Also, my Git and LinkedIn links were supposed to be on top of eachother */
+/* No matter what I did, they just weren't behaving correctly */
+/* Got them to sit side-by-side and just ended up leaving it, personally don't think it looks bad. */
