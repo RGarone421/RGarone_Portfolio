@@ -13,7 +13,7 @@ router.post("/register", (req, res) => {
     // console.log(req.body);
     const {name, email, age, mobile, work, add, desc} = req.body;
 
-    if(!name || !email ||  !age || !mobile|| !work || !add || !desc){
+    if(!name || !email || !age || !mobile|| !work || !add || !desc){
         res.status(404).send("please fill in the data required");
     }
 
